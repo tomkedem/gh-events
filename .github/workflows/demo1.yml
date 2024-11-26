@@ -7,7 +7,7 @@ on:
   push: 
     branches:
       - master
-      - 'dev-*' # dev-new dev-this-is-new
+      - 'dev-*' # dev-new dev-this-is-new 1
       - 'feat/**'  # feat/new feat/new/button
     
 jobs:
